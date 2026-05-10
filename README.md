@@ -1,0 +1,15 @@
+## Hi there 👋
+
+👀 I’m interested in Backend Development and Game Development  
+🌱 I’m currently learning Python and JavaScript  
+🎯 My goal is to become a Full-Stack Developer  
+
+🧰 Tech stack:
+🐍 Python | 🌐 JavaScript | ⚛️ React | 🟢 Node.js  
+
+💞️ I’m looking to collaborate on open-source projects and beginner-friendly apps  
+
+📫 How to reach me:
+Telegram: @themil1n  
+
+🔥 Fun fact: I turn coffee into code ☕
