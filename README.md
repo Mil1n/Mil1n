@@ -68,9 +68,11 @@ I’m currently focused on small learning projects that connect frontend and bac
 
 ---
 
-## 🚀 Featured Projects
+## 📊 GitHub Activity
 
-Coming soon! I’m building beginner-friendly projects and will add my best work here as I publish it.
+![Profile Views](https://komarev.com/ghpvc/?username=Mil1n&style=for-the-badge&color=blueviolet)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Mil1n&theme=tokyonight)
 
 ---
 
@@ -81,14 +83,6 @@ Coming soon! I’m building beginner-friendly projects and will add my best work
 - 🔌 Backend APIs
 - 🎮 Game development experiments
 - 📚 Learning-focused projects
-
----
-
-## 📊 GitHub Activity
-
-![Profile Views](https://komarev.com/ghpvc/?username=Mil1n&style=for-the-badge&color=blueviolet)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Mil1n&theme=tokyonight)
 
 ---
 
