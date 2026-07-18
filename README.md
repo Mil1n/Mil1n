@@ -129,10 +129,11 @@ Coming soon! I’ll add my best beginner-friendly projects here as I publish the
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mil1n&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mil1n&layout=compact&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=Mil1n&style=for-the-badge&color=blueviolet)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Mil1n&theme=tokyonight)
 
 ---
 
