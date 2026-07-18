@@ -18,9 +18,6 @@
 - [Project Ideas](#%EF%B8%8F-project-ideas)
 - [Open to Collaborate On](#-open-to-collaborate-on)
 - [Contact Me](#-contact-me)
-🚀 Beginner developer interested in **Backend Development** and **Game Development**.<br>
-🌱 Currently learning **Python**, **JavaScript**, **React**, and **Node.js**.<br>
-🎯 My goal is to become a **Full-Stack Developer** and build useful apps, APIs, and games.
 
 ---
 
@@ -43,13 +40,6 @@ I’m focused on building small full-stack projects step by step:
 3. Add a database
 4. Improve the UI and project structure
 5. Deploy the finished project
-- 🇷🇺 Also open to communication and collaboration in Russian
-
----
-
-## 🔨 Currently Building
-
-I’m currently focused on small learning projects that connect frontend and backend skills: REST APIs, simple web apps, and automation tools.
 
 ---
 
@@ -74,11 +64,6 @@ I’m currently focused on small learning projects that connect frontend and bac
 - Full-stack project structure
 - 2D game development
 - Deployment and hosting
-- Backend Development
-- REST APIs
-- Full-stack project structure
-- Game Development
-- Open-source collaboration
 
 ---
 
@@ -106,13 +91,6 @@ I’m currently focused on small learning projects that connect frontend and bac
 - [ ] Store data in a database
 - [ ] Deploy web apps
 - [ ] Write a useful README for each project
-- [x] Python basics
-- [x] Git basics
-- [ ] Build REST APIs with Python or Node.js
-- [ ] Learn React components, props, state, and hooks
-- [ ] Connect frontend apps to backend APIs
-- [ ] Add authentication to web apps
-- [ ] Deploy full-stack projects
 - [ ] Build a simple 2D game prototype
 
 ---
@@ -148,17 +126,14 @@ Coming soon! I’ll add my best beginner-friendly projects here as I publish the
 - Practice clean commits and pull requests
 - Learn basic testing for backend APIs
 - Deploy one full-stack application
-- ✅ Task manager web app — React + Node.js + REST API
-- 📝 Notes app with a REST API — Python/Node.js + SQLite or PostgreSQL
-- 🎮 Simple 2D game — Python + Pygame or JavaScript + Canvas
-- 🌍 Personal portfolio website — React + responsive design
-- 🤖 Small automation tools — Python scripts for everyday tasks
 
 ---
 
-## 🚀 Featured Projects
+## 📊 GitHub Activity
 
-Coming soon! I’m building beginner-friendly projects and will add my best work here as I publish it.
+![Profile Views](https://komarev.com/ghpvc/?username=Mil1n&style=for-the-badge&color=blueviolet)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Mil1n&theme=tokyonight)
 
 ---
 
@@ -169,14 +144,6 @@ Coming soon! I’m building beginner-friendly projects and will add my best work
 - 🔌 Backend APIs
 - 🎮 Game development experiments
 - 📚 Learning-focused projects
-
----
-
-## 📊 GitHub Activity
-
-![Profile Views](https://komarev.com/ghpvc/?username=Mil1n&style=for-the-badge&color=blueviolet)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Mil1n&theme=tokyonight)
 
 ---
 
