@@ -1,161 +1,128 @@
-## Hi, I'm Mil1n 👋
+<div align="center">
+  <img src="./logo_fullsize.svg" width="120" alt="Mil1n logo" />
 
-🚀 Beginner developer interested in **Backend Development**, **Web Apps**, and **Game Development**.
+  <h1>Hi, I'm Mil1n 👋</h1>
 
-🌱 Currently learning **Python**, **JavaScript**, **React**, and **Node.js**.
+  <p>
+    <strong>Beginner developer learning Full-Stack Development</strong><br />
+    Backend • Web Apps • Game Development
+  </p>
 
-🎯 Goal: become a **Full-Stack Developer** and build useful apps, APIs, and games.
-
-🇷🇺 Also open to communication and collaboration in Russian.
-
----
-
-## 🧭 Quick Links
-
-- [Current Focus](#-current-focus)
-- [Tech Stack](#-tech-stack)
-- [Learning Roadmap](#%EF%B8%8F-learning-roadmap)
-- [Project Ideas](#%EF%B8%8F-project-ideas)
-- [Open to Collaborate On](#-open-to-collaborate-on)
-- [Contact Me](#-contact-me)
+  <a href="https://t.me/themil1n">
+    <img src="https://img.shields.io/badge/Telegram-@themil1n-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Mil1n&style=for-the-badge&color=blueviolet" alt="Profile views" />
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-- 👀 Interested in backend systems, web apps, and game development
-- 🛠️ Practicing through small beginner-friendly projects
-- 📚 Learning how to write clean, scalable, and useful code
-- 🤝 Open to collaboration and open-source contributions
-- 🧩 I like learning by building practical mini-projects
+- 🚀 I’m building my path toward **Full-Stack Development**.
+- 🌱 Currently learning **Python**, **JavaScript**, **React**, and **Node.js**.
+- 🛠️ I practice by building small apps, APIs, automation tools, and game prototypes.
+- 🤝 Open to beginner-friendly collaborations and learning-focused open source.
+- 🇷🇺 Также открыт к общению и совместным проектам на русском языке.
 
 ---
 
-## 🔨 Current Focus
+## 🎯 Current Focus
 
-I’m focused on building small full-stack projects step by step:
-
-1. Create a simple backend API
-2. Connect it to a frontend interface
-3. Add a database
-4. Improve the UI and project structure
-5. Deploy the finished project
+| Step | Focus | Goal |
+| --- | --- | --- |
+| 1 | Backend API | Build clean CRUD endpoints |
+| 2 | Frontend UI | Connect React pages to an API |
+| 3 | Database | Store and manage real app data |
+| 4 | Project polish | Improve structure, UI, and README docs |
+| 5 | Deployment | Publish a finished full-stack project |
 
 ---
 
 ## 🧰 Tech Stack
 
-### Comfortable with
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Learning
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### Interested in
-
-- REST APIs
-- Databases
-- Authentication
-- Full-stack project structure
-- 2D game development
-- Deployment and hosting
+<table>
+  <tr>
+    <td><strong>Comfortable with</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Learning</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Interested in</strong></td>
+    <td>REST APIs • Databases • Authentication • 2D games • Deployment</td>
+  </tr>
+</table>
 
 ---
 
 ## 🗺️ Learning Roadmap
 
-### Backend
-
-- [x] Python basics
-- [x] Git basics
-- [ ] REST API basics
-- [ ] Database basics with SQLite or PostgreSQL
-- [ ] Authentication basics
-- [ ] API validation and error handling
-
-### Frontend
-
-- [ ] JavaScript fundamentals
-- [ ] React components, props, state, and hooks
-- [ ] Forms and API requests
-- [ ] Responsive layout basics
-
-### Full-stack and Deployment
-
-- [ ] Connect frontend apps to backend APIs
-- [ ] Store data in a database
-- [ ] Deploy web apps
-- [ ] Write a useful README for each project
-- [ ] Build a simple 2D game prototype
-
----
-
-## 🛠️ Project Ideas
-
-| Project | What I want to practice | Possible stack |
+| Backend | Frontend | Full-stack |
 | --- | --- | --- |
-| ✅ Task manager web app | CRUD, REST API, frontend forms | React + Node.js |
-| 📝 Notes app | Database models, API routes, simple UI | Python/Node.js + SQLite |
-| 🎮 Simple 2D game | Game loop, movement, collisions | Python + Pygame or JS Canvas |
-| 🌍 Portfolio website | Responsive layout, components, deployment | React |
-| 🤖 Python automation tools | File handling, scripts, useful workflows | Python |
+| ✅ Python basics | ⬜ JavaScript fundamentals | ⬜ Connect frontend to API |
+| ✅ Git basics | ⬜ React components and hooks | ⬜ Store data in a database |
+| ⬜ REST API basics | ⬜ Forms and API requests | ⬜ Deploy a web app |
+| ⬜ Database basics | ⬜ Responsive layouts | ⬜ Add project screenshots |
+| ⬜ Auth basics | ⬜ UI polish | ⬜ Write tests for APIs |
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects I Want to Build
 
-Coming soon! I’ll add my best beginner-friendly projects here as I publish them.
-
-| Project | Status | Link |
-| --- | --- | --- |
-| Task Manager | Planned | Coming soon |
-| Notes App | Planned | Coming soon |
-| Portfolio Website | Planned | Coming soon |
-
----
-
-## 🎯 Next Milestones
-
-- Publish the first finished beginner project
-- Add screenshots and setup instructions to project READMEs
-- Practice clean commits and pull requests
-- Learn basic testing for backend APIs
-- Deploy one full-stack application
+| Project | Practice goal | Possible stack | Status |
+| --- | --- | --- | --- |
+| Task Manager | CRUD, REST API, forms | React + Node.js | Planned |
+| Notes App | API routes, database models, simple UI | Python/Node.js + SQLite | Planned |
+| 2D Game | Game loop, movement, collisions | Python + Pygame or JS Canvas | Planned |
+| Portfolio Website | Responsive layout and deployment | React | Planned |
+| Automation Tools | Scripts for useful daily workflows | Python | Planned |
 
 ---
 
-## 📊 GitHub Activity
+## 📌 Next Milestones
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mil1n&style=for-the-badge&color=blueviolet)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mil1n&show_icons=true&theme=tokyonight)](https://github.com/Mil1n)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mil1n&layout=compact&theme=tokyonight)](https://github.com/Mil1n)
-
----
-
-## 🤝 Open to Collaborate On
-
-- 🌟 Beginner-friendly open-source projects
-- 🧩 Small web applications
-- 🔌 Backend APIs
-- 🎮 Game development experiments
-- 📚 Learning-focused projects
+- [ ] Publish the first finished beginner project
+- [ ] Add screenshots and setup instructions to project READMEs
+- [ ] Practice clean commits and pull requests
+- [ ] Learn basic testing for backend APIs
+- [ ] Deploy one full-stack application
 
 ---
 
-## 📫 Contact Me
+## 📊 GitHub Stats
 
-I’m open to beginner-friendly collaborations, small backend projects, and learning-focused open-source contributions.
-
-[![Telegram](https://img.shields.io/badge/Telegram-@themil1n-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/themil1n)
+<div align="center">
+  <a href="https://github.com/Mil1n">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mil1n&show_icons=true&theme=tokyonight" alt="Mil1n GitHub stats" />
+  </a>
+  <a href="https://github.com/Mil1n">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mil1n&layout=compact&theme=tokyonight" alt="Mil1n top languages" />
+  </a>
+</div>
 
 ---
 
-## 🔥 Fun Fact
+## 🤝 Let’s Collaborate
 
-☕ I turn coffee into code and bugs into lessons.
+I’m open to small beginner-friendly projects, backend APIs, web apps, game experiments, and learning-focused open-source contributions.
+
+<div align="center">
+  <a href="https://t.me/themil1n">
+    <img src="https://img.shields.io/badge/Message%20me%20on-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Message me on Telegram" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <strong>☕ I turn coffee into code and bugs into lessons.</strong>
+</div>
