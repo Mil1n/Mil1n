@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Artem Mil1n — developer profile banner</title>
+  <desc id="desc">Dark blue and violet full-stack developer banner with a monogram, terminal prompt, and the words building useful things for the web.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080b14"/>
+      <stop offset="0.52" stop-color="#0d1830"/>
+      <stop offset="1" stop-color="#17112c"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#28c7fa"/>
+      <stop offset="0.5" stop-color="#5f7cff"/>
+      <stop offset="1" stop-color="#b789f8"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#2185f3" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#2185f3" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#b789f8" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#b789f8" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#8aa4d8" stroke-opacity="0.075" stroke-width="1"/>
+    </pattern>
+    <filter id="shadow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="12"/>
+    </filter>
+    <clipPath id="clip">
+      <rect width="1200" height="360" rx="28"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="360" fill="url(#bg)"/>
+    <rect width="1200" height="360" fill="url(#grid)"/>
+    <circle cx="145" cy="70" r="270" fill="url(#glowA)"/>
+    <circle cx="1110" cy="315" r="330" fill="url(#glowB)"/>
+
+    <path d="M760 18 C900 62 940 164 1182 116" fill="none" stroke="url(#accent)" stroke-opacity="0.22" stroke-width="2"/>
+    <path d="M710 342 C852 248 1000 310 1220 204" fill="none" stroke="url(#accent)" stroke-opacity="0.18" stroke-width="2"/>
+
+    <g transform="translate(92 72)">
+      <rect width="218" height="218" rx="48" fill="#0a1020" stroke="url(#accent)" stroke-width="2"/>
+      <rect x="12" y="12" width="194" height="194" rx="38" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+      <path d="M54 154V66l55 62 55-62v88" fill="none" stroke="url(#accent)" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="176" cy="42" r="6" fill="#b789f8"/>
+      <circle cx="42" cy="176" r="5" fill="#28c7fa"/>
+    </g>
+
+    <g transform="translate(366 76)">
+      <text x="0" y="28" fill="#89a6d6" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" font-weight="600" letter-spacing="4">DEVELOPER PROFILE</text>
+      <text x="0" y="98" fill="#f5f7ff" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="62" font-weight="750" letter-spacing="1">ARTEM / MIL1N</text>
+      <rect x="0" y="124" width="690" height="4" rx="2" fill="url(#accent)"/>
+      <text x="0" y="174" fill="#c8d4ec" font-family="Consolas, Cascadia Code, monospace" font-size="24">&gt; building useful things for the web_</text>
+
+      <g transform="translate(0 205)" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15" font-weight="600">
+        <rect width="132" height="36" rx="18" fill="#28c7fa" fill-opacity="0.10" stroke="#28c7fa" stroke-opacity="0.50"/>
+        <text x="66" y="23" fill="#82e3ff" text-anchor="middle">WEB APPS</text>
+
+        <rect x="146" width="100" height="36" rx="18" fill="#6881ff" fill-opacity="0.10" stroke="#6881ff" stroke-opacity="0.55"/>
+        <text x="196" y="23" fill="#a9b7ff" text-anchor="middle">APIS</text>
+
+        <rect x="260" width="164" height="36" rx="18" fill="#b789f8" fill-opacity="0.10" stroke="#b789f8" stroke-opacity="0.50"/>
+        <text x="342" y="23" fill="#dabdff" text-anchor="middle">GAME LOGIC</text>
+
+        <rect x="438" width="164" height="36" rx="18" fill="#78e6b4" fill-opacity="0.08" stroke="#78e6b4" stroke-opacity="0.42"/>
+        <text x="520" y="23" fill="#9bf0c8" text-anchor="middle">OPEN SOURCE</text>
+      </g>
+    </g>
+
+    <g opacity="0.6" fill="#b9c8e5">
+      <circle cx="1142" cy="58" r="3"/>
+      <circle cx="1094" cy="82" r="2"/>
+      <circle cx="1130" cy="105" r="2"/>
+      <circle cx="1064" cy="292" r="3"/>
+      <circle cx="1120" cy="274" r="2"/>
+    </g>
+  </g>
+
+  <rect x="1" y="1" width="1198" height="358" rx="27" fill="none" stroke="#ffffff" stroke-opacity="0.10" stroke-width="2"/>
+</svg>
