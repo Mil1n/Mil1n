@@ -1,128 +1,80 @@
-<div align="center">
-  <img src="./logo_fullsize.svg" width="120" alt="Mil1n logo" />
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Artem / Mil1n - building useful things for the web" />
+</p>
 
-  <h1>Hi, I'm Mil1n 👋</h1>
+<p align="center">
+  <strong>Full-stack developer building practical web products, browser games, and Windows tools.</strong><br />
+  <sub>TypeScript · JavaScript · Python · C#</sub>
+</p>
 
-  <p>
-    <strong>Beginner developer learning Full-Stack Development</strong><br />
-    Backend • Web Apps • Game Development
-  </p>
+<p align="center">
+  <a href="https://github.com/Mil1n?tab=repositories">Projects</a>
+  ·
+  <a href="https://t.me/themil1n">Telegram</a>
+</p>
 
-  <a href="https://t.me/themil1n">
-    <img src="https://img.shields.io/badge/Telegram-@themil1n-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Mil1n&style=for-the-badge&color=blueviolet" alt="Profile views" />
-</div>
+## About
 
----
+I learn by shipping complete vertical slices: interface, application logic, data, tests, and documentation. My public work currently spans React/TypeScript frontends, Node.js and Python backends, browser game engines, and C#/.NET desktop software.
 
-## 👨‍💻 About Me
+- Building useful MVPs and turning the strongest ones into polished, maintainable projects.
+- Improving architecture, automated testing, accessibility, and deployment workflows.
+- Open to focused collaborations, code feedback, and learning-oriented open source.
 
-- 🚀 I’m building my path toward **Full-Stack Development**.
-- 🌱 Currently learning **Python**, **JavaScript**, **React**, and **Node.js**.
-- 🛠️ I practice by building small apps, APIs, automation tools, and game prototypes.
-- 🤝 Open to beginner-friendly collaborations and learning-focused open source.
-- 🇷🇺 Также открыт к общению и совместным проектам на русском языке.
-
----
-
-## 🎯 Current Focus
-
-| Step | Focus | Goal |
-| --- | --- | --- |
-| 1 | Backend API | Build clean CRUD endpoints |
-| 2 | Frontend UI | Connect React pages to an API |
-| 3 | Database | Store and manage real app data |
-| 4 | Project polish | Improve structure, UI, and README docs |
-| 5 | Deployment | Publish a finished full-stack project |
-
----
-
-## 🧰 Tech Stack
+## Selected work
 
 <table>
   <tr>
-    <td><strong>Comfortable with</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Mil1n/Mini-Blog-Notes">Mini Blog / Notes</a></h3>
+      <p>A full-stack notes app with Markdown, drafts, tags, optimistic actions, JWT authentication, and owner-scoped CRUD.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Express</code> <code>Prisma</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Mil1n/URL-Shortener">URL Shortener</a></h3>
+      <p>A dependency-light Python service with analytics, scoped API keys, A/B routing, webhooks, rate limits, and tests.</p>
+      <p><code>Python</code> <code>WSGI</code> <code>SQLite</code> <code>REST API</code></p>
     </td>
   </tr>
   <tr>
-    <td><strong>Learning</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Mil1n/Checkers">Checkers Grandmaster</a></h3>
+      <p>A Russian checkers engine with forced captures, alpha-beta search, explainable analysis, Web Worker execution, and tests.</p>
+      <p><code>JavaScript</code> <code>Game engine</code> <code>Web Worker</code></p>
     </td>
-  </tr>
-  <tr>
-    <td><strong>Interested in</strong></td>
-    <td>REST APIs • Databases • Authentication • 2D games • Deployment</td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Mil1n/SAM">Steam Achievement Manager</a></h3>
+      <p>An independently maintained Windows adaptation based on Rick Gibbed's original open-source project, with detailed documentation and automated releases.</p>
+      <p><code>C#</code> <code>.NET</code> <code>Windows</code> <code>GitHub Actions</code></p>
+    </td>
   </tr>
 </table>
 
----
+More experiments: [WeatherPulse](https://github.com/Mil1n/Weather-Pulse) · [Chess Prime](https://github.com/Mil1n/Chess) · [Smart Calculator](https://github.com/Mil1n/Calculator) · [Private Social Network](https://github.com/Mil1n/Social-Network)
 
-## 🗺️ Learning Roadmap
+## Toolbox
 
-| Backend | Frontend | Full-stack |
-| --- | --- | --- |
-| ✅ Python basics | ⬜ JavaScript fundamentals | ⬜ Connect frontend to API |
-| ✅ Git basics | ⬜ React components and hooks | ⬜ Store data in a database |
-| ⬜ REST API basics | ⬜ Forms and API requests | ⬜ Deploy a web app |
-| ⬜ Database basics | ⬜ Responsive layouts | ⬜ Add project screenshots |
-| ⬜ Auth basics | ⬜ UI polish | ⬜ Write tests for APIs |
+| Area | Tools |
+| --- | --- |
+| Languages | TypeScript, JavaScript, Python, C# |
+| Frontend | React, Zustand, Tailwind CSS, Vanilla JS, PWA |
+| Backend & data | Node.js, Express, Prisma, SQLite, Python WSGI |
+| Quality & delivery | Vitest, node:test, Git, GitHub Actions |
 
----
+```text
+idea -> working slice -> tests -> polish -> docs -> ship
+```
 
-## 🚀 Projects I Want to Build
+## Current focus
 
-| Project | Practice goal | Possible stack | Status |
-| --- | --- | --- | --- |
-| Task Manager | CRUD, REST API, forms | React + Node.js | Planned |
-| Notes App | API routes, database models, simple UI | Python/Node.js + SQLite | Planned |
-| 2D Game | Game loop, movement, collisions | Python + Pygame or JS Canvas | Planned |
-| Portfolio Website | Responsive layout and deployment | React | Planned |
-| Automation Tools | Scripts for useful daily workflows | Python | Planned |
+1. Take the best prototypes beyond the MVP stage with stronger architecture and CI.
+2. Add screenshots, live demos, and reproducible setup to the projects worth showcasing.
+3. Go deeper into production backends, authentication, databases, and deployment.
 
----
+## Contact
 
-## 📌 Next Milestones
+Have a compact product idea, an interesting game mechanic, or useful feedback? [Message me on Telegram](https://t.me/themil1n).
 
-- [ ] Publish the first finished beginner project
-- [ ] Add screenshots and setup instructions to project READMEs
-- [ ] Practice clean commits and pull requests
-- [ ] Learn basic testing for backend APIs
-- [ ] Deploy one full-stack application
+Также открыт к общению и совместным проектам на русском языке.
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/Mil1n">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mil1n&show_icons=true&theme=tokyonight" alt="Mil1n GitHub stats" />
-  </a>
-  <a href="https://github.com/Mil1n">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mil1n&layout=compact&theme=tokyonight" alt="Mil1n top languages" />
-  </a>
-</div>
-
----
-
-## 🤝 Let’s Collaborate
-
-I’m open to small beginner-friendly projects, backend APIs, web apps, game experiments, and learning-focused open-source contributions.
-
-<div align="center">
-  <a href="https://t.me/themil1n">
-    <img src="https://img.shields.io/badge/Message%20me%20on-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Message me on Telegram" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <strong>☕ I turn coffee into code and bugs into lessons.</strong>
-</div>
+<p align="center"><sub>Build small. Learn fast. Document the result.</sub></p>
